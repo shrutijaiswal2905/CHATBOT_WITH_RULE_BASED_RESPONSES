@@ -109,4 +109,3 @@ Bot: Goodbye! Have a great day!
 - Add logging and history tracking
 
 ---
-Let me know if you’d like a `LICENSE` file, `requirements.txt`, or help with extending the bot too!
